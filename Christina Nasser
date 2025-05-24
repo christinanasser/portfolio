@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Christina Nasser | Digital Marketer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #ffffff;
+      color: #333333;
+    }
+    header {
+      background-color: #f8f8f8;
+      padding: 40px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    header p {
+      font-size: 1.2em;
+      color: #777;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      border-bottom: 2px solid #eee;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+    .services ul {
+      list-style: none;
+      padding: 0;
+    }
+    .services li {
+      margin-bottom: 10px;
+    }
+    footer {
+      background-color: #f0f0f0;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Christina Nasser</h1>
+    <p>Freelance Social Media & Digital Marketing Specialist</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I'm Christina, a freelance digital marketer specializing in social media management, content creation, and paid advertising. I help brands build a strong digital presence and reach their audience effectively.</p>
+  </section>
+
+  <section class="services">
+    <h2>My Services</h2>
+    <ul>
+      <li>✔ Social Media Account Management</li>
+      <li>✔ Creative Content Creation (Posts, Stories, Reels)</li>
+      <li>✔ Paid Advertising Campaigns (Facebook, Instagram)</li>
+      <li>✔ Performance Analysis & Reporting</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Portfolio</h2>
+    <p>Examples of my work will be added here soon. Contact me to see more or request samples.</p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: christina@example.com<br>
+       Instagram: @christinamarkets<br>
+       WhatsApp: +20 123 456 7890</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Christina Nasser. All rights reserved.
+  </footer>
+</body>
+</html>
